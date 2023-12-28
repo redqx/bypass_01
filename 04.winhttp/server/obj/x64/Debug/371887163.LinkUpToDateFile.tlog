@@ -1,1 +1,0 @@
-g++ -o "/home/kali/projects/v1/bin/x64/Debug/v1.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/kali/projects/v1/obj/x64/Debug/enc.o /home/kali/projects/v1/obj/x64/Debug/file.o /home/kali/projects/v1/obj/x64/Debug/http.o /home/kali/projects/v1/obj/x64/Debug/main.o

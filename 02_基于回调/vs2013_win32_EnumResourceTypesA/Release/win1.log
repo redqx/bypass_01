@@ -1,0 +1,25 @@
+﻿生成启动时间为 2023/12/28 13:18:55。
+     1>项目“C:\Users\redqx\Desktop\dqx\demo_code\visual studio 2013\demo1\win1\win1.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\win1.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt mm.c
+         mm.c
+     1>c:\users\redqx\desktop\dqx\demo_code\visual studio 2013\demo1\win1\mm.h(2): error C2059: 语法错误:“字符串”
+     1>mm.c(36): warning C4018: “<”: 有符号/无符号不匹配
+     1>mm.c(127): warning C4133: “=”: 从“_LIST_ENTRY *”到“LDR_DATA_TABLE_ENTRY *”的类型不兼容
+     1>mm.c(183): warning C4113: “FARPROC”和“TYPE_VirtualProtect”的参数列表不同
+     1>mm.c(184): warning C4113: “FARPROC”和“TYPE_VirtualProtect”的参数列表不同
+     1>mm.c(185): warning C4113: “FARPROC”和“TYPE_CreateThread”的参数列表不同
+     1>mm.c(185): warning C4047: “=”:“TYPE_CreateThread”与“FARPROC”的间接级别不同
+     1>mm.c(192): warning C4047: “函数”:“PDWORD”与“int”的间接级别不同
+     1>mm.c(192): warning C4024: “lp_VirtualAlloc”: 形参和实参 4 的类型不同
+     1>mm.c(202): warning C4047: “函数”:“SIZE_T”与“void *”的间接级别不同
+     1>mm.c(202): warning C4024: “lp_CreateThread”: 形参和实参 2 的类型不同
+     1>mm.c(205): warning C4047: “函数”:“DWORD”与“void *”的间接级别不同
+     1>mm.c(205): warning C4024: “lp_CreateThread”: 形参和实参 5 的类型不同
+     1>已完成生成项目“C:\Users\redqx\Desktop\dqx\demo_code\visual studio 2013\demo1\win1\win1.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.33

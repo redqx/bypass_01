@@ -1,0 +1,13 @@
+﻿  d3.c
+C:\Users\redqx\Desktop\dqx\demo_code\visual studio 2019\demo\d3\d3.c(10,1): error C2628: “EXCEPTION_DISPOSITION”后面接“int”是非法的(是否忘记了“;”?)
+C:\Users\redqx\Desktop\dqx\demo_code\visual studio 2019\demo\d3\d3.c(11,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\Users\redqx\Desktop\dqx\demo_code\visual studio 2019\demo\d3\d3.c(12,8): error C2065: “push”: 未声明的标识符
+C:\Users\redqx\Desktop\dqx\demo_code\visual studio 2019\demo\d3\d3.c(12,8): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\Users\redqx\Desktop\dqx\demo_code\visual studio 2019\demo\d3\d3.c(12,11): error C2065: “eax”: 未声明的标识符
+C:\Users\redqx\Desktop\dqx\demo_code\visual studio 2019\demo\d3\d3.c(13,7): error C2065: “lea”: 未声明的标识符
+C:\Users\redqx\Desktop\dqx\demo_code\visual studio 2019\demo\d3\d3.c(13,7): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\Users\redqx\Desktop\dqx\demo_code\visual studio 2019\demo\d3\d3.c(13,10): error C2065: “eax”: 未声明的标识符
+C:\Users\redqx\Desktop\dqx\demo_code\visual studio 2019\demo\d3\d3.c(13,10): warning C4550: 表达式计算为缺少参数列表的函数
+C:\Users\redqx\Desktop\dqx\demo_code\visual studio 2019\demo\d3\d3.c(14,7): error C2065: “pop”: 未声明的标识符
+C:\Users\redqx\Desktop\dqx\demo_code\visual studio 2019\demo\d3\d3.c(14,7): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\Users\redqx\Desktop\dqx\demo_code\visual studio 2019\demo\d3\d3.c(14,10): error C2065: “eax”: 未声明的标识符
